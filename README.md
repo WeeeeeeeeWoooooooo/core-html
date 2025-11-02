@@ -1,31 +1,29 @@
-# SDE Notes
+# Core HTML — Interactive Notes & Demos
 
-Front-end notes and interactive micro-demos built with **Vite + React**.
+Semantic, accessible, and production-friendly HTML patterns with runnable demos (Monaco), topic-wise navigation, and skip-to-content UX.
 
----
+## Live
 
--   **Site:** https://a2rp.github.io/sde-notes/
--   **Repo:** https://github.com/a2rp/sde-notes
+-   **GitHub Repo:** https://github.com/a2rp/core-html
+-   **GitHub Pages:** https://a2rp.github.io/core-html/
 
----
-
-## Clone & Run
+## Clone
 
 ```bash
-# Clone
-git clone https://github.com/a2rp/sde-notes.git
-cd sde-notes
+git clone https://github.com/a2rp/core-html.git
+cd core-html
+```
 
-# Install
+Quick Start
+
+```bash
+# install
 npm i
 
-# Dev
+# dev
 npm run dev
-# open the local URL shown in the terminal
 
-# Build
+# build & preview
 npm run build
-
-# Preview (serves the build)
 npm run preview
 ```
